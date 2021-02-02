@@ -32,7 +32,3 @@
 <br/><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thihan200&show_icons=true&locale=en&layout=compact&bg_color=130f40&text_color=daf7dc&title_color=dff9fb&icon_color=bb2acf" alt="thihan200" /></p>
-
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thihan200&show_icons=truebg_color=130f40&text_color=daf7dc&title_color=dff9fb&" alt="thihan200" /></p>
