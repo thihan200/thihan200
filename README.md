@@ -1,6 +1,7 @@
 ### Hi there I am Thihan Gamage 👋
 
-- 🔭 I’m currently studying at Institute of Java and Software Engineering(IJSE).
+- 📚 I am an undergraduate student at University of Colombo which is following BICT degree.
+- 🔭 I was studied at Institute of Java and Software Engineering(IJSE).
 - 🌱 I’m currently learning Angular and Spring Frameworks.
 - 👯 I’m looking to collaborate on JAVA and Web Projects.
 - 💬 Ask me about JAVA and Internet Technologies.
@@ -15,6 +16,10 @@
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thihan200&label=Profile%20views&color=0e75b6&style=flat" alt="thihan200" /> </p>
+
+<br/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thihan200" alt="thihan200" /></a> </p>
 
 <br/>
 
