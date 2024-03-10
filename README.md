@@ -1,6 +1,6 @@
 ### Hi there I am Thihan Gamage 👋
 
-- 📚 I am an undergraduate student at University of Colombo which is following BICT degree.
+- 📚 I am an undergraduate student at University of Colombo which is following BIT degree.
 - 🔭 I was studied at Institute of Java and Software Engineering(IJSE).
 - 🌱 I’m currently learning Angular and Spring Frameworks.
 - 👯 I’m looking to collaborate on JAVA and Web Projects.
